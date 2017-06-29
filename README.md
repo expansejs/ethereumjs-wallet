@@ -69,7 +69,7 @@ Constructors:
 
 To use BIP32 HD wallets, first include the `hdkey` submodule:
 
-`var hdkey = require('ethereumjs-wallet/hdkey')`
+`var hdkey = require('expansejs-wallet/hdkey')`
 
 Constructors:
 
@@ -91,7 +91,7 @@ Instance methods:
 The Wallet can be easily plugged into [provider-engine](https://github.com/metamask/provider-engine) to provide signing:
 
 ```js
-const WalletSubprovider = require('ethereumjs-wallet/provider-engine')
+const WalletSubprovider = require('expansejs-wallet/provider-engine')
 
 <engine>.addProvider(new WalletSubprovider(<wallet instance>))
 ```
