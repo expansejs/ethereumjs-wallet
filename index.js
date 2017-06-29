@@ -1,4 +1,4 @@
-var ethUtil = require('ethereumjs-util')
+var ethUtil = require('expansejs-util')
 var crypto = require('crypto')
 var scryptsy = require('scrypt.js')
 var uuid = require('uuid')
