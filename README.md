@@ -2,6 +2,7 @@
 
 [![NPM Package](https://img.shields.io/npm/v/expansejs-wallet.svg?style=flat-square)](https://www.npmjs.org/package/expansejs-wallet)
 [![Build Status](https://img.shields.io/travis/expansejs/expansejs-wallet.svg?branch=master&style=flat-square)](https://travis-ci.org/expansejs/expansejs-wallet)
+[![Coverage Status](https://img.shields.io/coveralls/expansejs/expansejs-util.svg?style=flat-square)](https://coveralls.io/r/expansejs/expansejs-util)
 
 A lightweight wallet implementation. At the moment it supports key creation and conversion between various formats.
 
