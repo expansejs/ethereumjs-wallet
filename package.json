@@ -29,7 +29,7 @@
   "dependencies": {
     "aes-js": "^0.2.3",
     "bs58check": "^1.0.8",
-    "ethereumjs-util": "^4.4.0",
+    "expansejs-util": "^5.1.2",
     "hdkey": "^0.7.0",
     "scrypt.js": "^0.2.0",
     "uuid": "^2.0.1",
